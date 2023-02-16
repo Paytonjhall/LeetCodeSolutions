@@ -2,7 +2,7 @@ package Sqrtx;
 
 public class Solution {
   public static void main(String[] args) {
-    System.out.println(mySqrt(147));
+    System.out.println(mySqrt(168));
   }
 
   public static int mySqrt(int x) {
